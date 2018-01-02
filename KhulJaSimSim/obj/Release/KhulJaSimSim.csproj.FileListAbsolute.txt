@@ -1,0 +1,6 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\KhulJaSimSim\KhulJaSimSim\bin\Release\KhulJaSimSim.exe.config
+c:\users\pareeka2\documents\visual studio 2015\Projects\KhulJaSimSim\KhulJaSimSim\bin\Release\KhulJaSimSim.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\KhulJaSimSim\KhulJaSimSim\bin\Release\KhulJaSimSim.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\KhulJaSimSim\KhulJaSimSim\obj\Release\KhulJaSimSim.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\KhulJaSimSim\KhulJaSimSim\obj\Release\KhulJaSimSim.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\KhulJaSimSim\KhulJaSimSim\obj\Release\KhulJaSimSim.csprojResolveAssemblyReference.cache
